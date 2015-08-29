@@ -1,0 +1,8 @@
+[package]
+name = "spline"
+version = "0.0.1"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/bodoni/spline"
+homepage = "https://github.com/bodoni/spline"
+description = "The package provides splines."
