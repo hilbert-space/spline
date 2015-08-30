@@ -1,3 +1,0 @@
-//! Splines.
-
-pub mod curve;
